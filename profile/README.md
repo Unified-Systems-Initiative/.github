@@ -1,3 +1,5 @@
+<img src="../USI.png" width="300" alt="USI">
+
 # Unified Systems Initiative
 
 **Independent Software Development**
