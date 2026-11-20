@@ -1,4 +1,4 @@
-<img src="../USI.png" width="300" alt="USI">
+<img src="../USI.png" width="200" alt="USI">
 
 # Unified Systems Initiative
 
