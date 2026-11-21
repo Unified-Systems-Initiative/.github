@@ -23,13 +23,6 @@ An independent operating system project exploring a unique DOS-inspired architec
 
 [View Repository](https://github.com/Unified-Systems-Initiative/UDOS)
 
-### nixsk
-**UNIX Socket Manager**
-
-A professional terminal-based toolkit and manager for Unix domain sockets.
-
-[View Repository](https://github.com/Unified-Systems-Initiative/nixsk)
-
 ## Development Areas
 
 - Operating Systems
